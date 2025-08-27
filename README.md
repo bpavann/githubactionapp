@@ -1,0 +1,1 @@
+This is the python app for just to practice of github action and ci/cd pipeline and its workflow
